@@ -1,3 +1,7 @@
+## 2.0.2
+
+* Removes references to Flutter v1 android embedding classes.
+
 ## 2.0.1
 
 Improve pub.dev score
